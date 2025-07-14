@@ -1,0 +1,7 @@
+# Cloudflare Pages configuration
+name = "lite-paper-docs"
+compatibility_date = "2025-01-14"
+pages_build_output_dir = "out"
+
+[env.production]
+compatibility_date = "2025-01-14"
